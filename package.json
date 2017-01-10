@@ -1,0 +1,14 @@
+{
+  "name": "sections",
+  "version": "1.0.0",
+  "description": "Simple Sections",
+  "main": "index.js",
+  "repository": {},
+  "scripts": {
+    "start": "browser-sync start --server --files '*.html' 'css/*.css' 'js/*.js'"
+   },
+  "devDependencies": {
+    "browser-sync": "^2.18.6"
+   },
+  "license": "MIT"
+}
